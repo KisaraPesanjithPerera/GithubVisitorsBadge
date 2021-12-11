@@ -1,4 +1,4 @@
-![cooltext399892519214132 (2)](https://user-images.githubusercontent.com/86920820/145668312-f0a60553-2063-4123-89d8-e1d963ac0a87.png)
+![cooltext399899734189845](https://user-images.githubusercontent.com/86920820/145670160-be3ab034-6af2-412f-8e19-910007c75e06.png)
 
 # [github visitors badge](https://github-visitors-badge.glitch.me)
 
@@ -6,7 +6,7 @@ A badge generator service to count visitors of your markdown file.
 
 Hello every one!
 
-In this post, I will tell you the story of me to creating the visitor-badge, it's a svg image that can count your visitors for your GitHub README.md, issues, PRs in just one line markdown code.
+In this post, I will tell you the story of me to creating the github-visitors-badge, it's a svg image that can count your visitors for your GitHub README.md, issues, PRs in just one line markdown code.
 
 # Why
 All the story starting from I migrate all my blog posts from Hexo GitHub Pages to a GitHub issue based repository. After a painful migration, I found that there is no visitor tracking for the repository, though basically I myself am the only one visitor in most time :( , I still want a visitor counting service for my every GitHub Issue and the README.
@@ -42,7 +42,7 @@ So, for now, we have all we needed, just coding:
 Why you have to pass a ```page_id``` as a query parameter?
 For the first version, I plan to use the ```Referrer``` header in http request which is more convenient but GitHub proxy all the image request via its camo image server:
 
-Your browser -> Github Camo -> My server
+> Your browser -> Github Camo -> My server
 
 But Camo does not pass the Referrer header to my server for some reason, so I change to the query parameter solution.
 
