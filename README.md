@@ -36,6 +36,8 @@ Also can avoid concurrent updating issue if too many visitors to your page in th
 
 So, for now, we have all we needed, just coding:
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SenuGamerBoy&repo=github-visitors-badge)](https://github.com/SenuGamerBoy/github-visitors-badge)
+
 # Some tricks
 Why you have to pass a ```page_id``` as a query parameter?
 For the first version, I plan to use the ```Referrer``` header in http request which is more convenient but GitHub proxy all the image request via its camo image server:
