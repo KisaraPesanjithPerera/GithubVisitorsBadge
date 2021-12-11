@@ -1,6 +1,6 @@
 ![cooltext399899734189845](https://user-images.githubusercontent.com/86920820/145670160-be3ab034-6af2-412f-8e19-910007c75e06.png)
 
-# [github visitors badge](https://github-visitors-badge.glitch.me)
+# [github visitors badge](https://github-visitors-badge.glitch.me) ![visitor badge](https://github-visitors-badge.glitch.me/badge?page_id=SenuGamerBoy.github-visitors-badge&left_text=MyPageVisitors)
 
 A badge generator service to count visitors of your markdown file.
 
