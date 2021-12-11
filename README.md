@@ -107,4 +107,5 @@ Examples:
 ![visitor badge](https://github-visitors-badge.glitch.me/badge?page_id=SenuGamerBoy.github-visitors-badge&left_color=red&right_color=green&left_text=Hello%20Visitors) <code>(left_color=red, right_color=green, left_text=Hello%20Visitors)</code>
 
 ## powered by
-![757923c9dea0c5fd4c391dd74585024c023fec09](https://user-images.githubusercontent.com/86920820/145670327-27b47a1f-1bf8-4642-a0d2-8f44192ef1b8.png)
+
+<img src="https://user-images.githubusercontent.com/86920820/145670327-27b47a1f-1bf8-4642-a0d2-8f44192ef1b8.png" width="300"></a>
