@@ -126,7 +126,7 @@ Please add your github Username to the AUTHORS file
 
 ## powered by
 
-<img src="https://user-images.githubusercontent.com/86920820/145670327-27b47a1f-1bf8-4642-a0d2-8f44192ef1b8.png" width="200"></a>
+<img src="https://user-images.githubusercontent.com/86920820/145670327-27b47a1f-1bf8-4642-a0d2-8f44192ef1b8.png" width="240"></a>
 
 ## License
 Code released under [The GNU General Public License](LICENSE).
