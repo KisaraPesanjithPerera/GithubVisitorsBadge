@@ -38,8 +38,6 @@ So, for now, we have all we needed, just coding:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SenuGamerBoy&repo=github-visitors-badge)](https://github.com/SenuGamerBoy/github-visitors-badge)
 
-
-
 # Some tricks
 Why you have to pass a ```page_id``` as a query parameter?
 For the first version, I plan to use the ```Referrer``` header in http request which is more convenient but GitHub proxy all the image request via its camo image server:
@@ -128,6 +126,14 @@ Please add your github Username to the AUTHORS file
 ## powered by
 
 <img src="https://user-images.githubusercontent.com/86920820/145670327-27b47a1f-1bf8-4642-a0d2-8f44192ef1b8.png" width="240"></a>
+
+# Devs & Contributors
+If you'd like to contribute, check out the [contributing guide](CONTRIBUTING).
+<a href="https://github.com/SenuGamerBoy/github-visitors-badge/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=SenuGamerBoy/github-visitors-badge" />
+</a>
+
+> Thanks to everyone who starred [github visitors badge](https://github.com/SenuGamerBoy/github-visitors-badge), That is the greatest pleasure we have !
 
 # Support :
 <p><a href="https://www.buymeacoffee.com/SenuGamerBoy"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a plant&emoji=🎍&slug=SenuGamerBoy&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"></a><a href="https://ko-fi.com/SenuGamerBoy"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="SenuGamerBoy" /></a></p><br><br>
