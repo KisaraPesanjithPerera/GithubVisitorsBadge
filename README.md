@@ -38,6 +38,7 @@ So, for now, we have all we needed, just coding:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SenuGamerBoy&repo=github-visitors-badge)](https://github.com/SenuGamerBoy/github-visitors-badge)
 
+
 # Some tricks
 Why you have to pass a ```page_id``` as a query parameter?
 For the first version, I plan to use the ```Referrer``` header in http request which is more convenient but GitHub proxy all the image request via its camo image server:
@@ -105,6 +106,23 @@ Examples:
 ![visitor badge](https://github-visitors-badge.glitch.me/badge?page_id=SenuGamerBoy.github-visitors-badge&left_color=red&right_color=green&left_text=Hello%20Visitors)
 ```
 ![visitor badge](https://github-visitors-badge.glitch.me/badge?page_id=SenuGamerBoy.github-visitors-badge&left_color=red&right_color=green&left_text=Hello%20Visitors) <code>(left_color=red, right_color=green, left_text=Hello%20Visitors)</code>
+
+# CONTRIBUTING
+
+Contributions are very much appreciated!
+
+Pull requests should be based on and submitted to the "main" branch
+
+Please raise an issue to discuss what you plan to implement or change before 
+you start if it is going to involve a lot of work on your part.
+
+Please keep pull requests specific, do not make many disparate changes or
+new features in one request.  A separate pull request for each feature change
+is preferred.
+
+Please ensure your changes work in Python 3.7+ 
+
+Please add your github Username to the AUTHORS file
 
 ## powered by
 
