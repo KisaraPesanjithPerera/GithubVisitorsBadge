@@ -89,7 +89,7 @@ Examples:
 ![visitor badge](https://github-visitors-badge.glitch.me/badge?page_id=SenuGamerBoy.github-visitors-badge&left_color=red&right_color=green) 
 ```
 
-![visitor badge](https://github-visitors-badge.glitch.me/badge?page_id=SenuGamerBoy.github-visitors-badge&left_color=red&right_color=green) (left_color=red, right_color=green)
+![visitor badge](https://github-visitors-badge.glitch.me/badge?page_id=SenuGamerBoy.github-visitors-badge&left_color=red&right_color=green)<code> (left_color=red, right_color=green) </code>
 
 - customized color and left text
 
