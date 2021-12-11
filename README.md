@@ -128,5 +128,8 @@ Please add your github Username to the AUTHORS file
 
 <img src="https://user-images.githubusercontent.com/86920820/145670327-27b47a1f-1bf8-4642-a0d2-8f44192ef1b8.png" width="240"></a>
 
+# Support :
+<p><a href="https://www.buymeacoffee.com/SenuGamerBoy"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="SenuGamerBoy" /></a><a href="https://ko-fi.com/SenuGamerBoy"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="SenuGamerBoy" /></a></p><br><br>
+
 ## License
 Code released under [The GNU General Public License](LICENSE).
