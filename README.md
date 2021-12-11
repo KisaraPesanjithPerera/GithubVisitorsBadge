@@ -12,22 +12,23 @@ In this post, I will tell you the story of me to creating the visitor-badge, it'
 All the story starting from I migrate all my blog posts from Hexo GitHub Pages to a GitHub issue based repository. After a painful migration, I found that there is no visitor tracking for the repository, though basically I myself am the only one visitor in most time :( , I still want a visitor counting service for my every GitHub Issue and the README.
 
 # How
-After a lot of searching, brainstorming, prototyping, I put my eye on the little badge in many other repository. Those badges can show us:
+After a lot of searching, brainstorming, prototyping, I put my eye on the little badge in many other repository. Those ```badges``` can show us:
 
-How much stars of the repository
-How much opened issues
-How much PRs
+- How much stars of the repository
+- How much opened issues
+- How much PRs
+- ...
 
 
 and all the badges is just a svg image file with a dynamic content in it.
 
-After more searching, I found the pybadge library which will generate a GitHub badge style dynamically with a very simple api.
+After more searching, I found the ```pybadge``` library which will generate a GitHub badge style dynamically with a very simple api.
 
 So I can setup a python server, receive a svg file request, generate a dynamic svg file, return it, so it will display on the README.md.
 
 What else? A database to store the previous count of each page so that in the next time the same request from the page received, I can increment 1 based on the previous count.
 
-Here it is: https://countapi.xyz/, a free counting API allows you to create simple numeric counters. IaaS, Integer as a Service.
+Here it is: ```https://countapi.xyz/```, a free counting API allows you to create simple numeric counters. IaaS, Integer as a Service.
 
 CountAPI is a perfect chosen for this use case, and it's easy to use, I don't need to prepare a database(SQLite, MySQL, etc.), I just send a http request to the API, and can get the incremented number.
 
@@ -36,8 +37,8 @@ Also can avoid concurrent updating issue if too many visitors to your page in th
 So, for now, we have all we needed, just coding:
 
 # Some tricks
-Why you have to pass a page_id as a query parameter?
-For the first version, I plan to use the Referrer header in http request which is more convenient but GitHub proxy all the image request via its camo image server:
+Why you have to pass a ```page_id``` as a query parameter?
+For the first version, I plan to use the ```Referrer``` header in http request which is more convenient but GitHub proxy all the image request via its camo image server:
 
 Your browser -> Github Camo -> My server
 
