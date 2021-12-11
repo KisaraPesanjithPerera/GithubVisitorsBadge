@@ -136,7 +136,6 @@ Please add your github Username to the AUTHORS file
 > Thanks to everyone who starred [github visitors badge](https://github.com/SenuGamerBoy/github-visitors-badge), That is the greatest pleasure we have !
 
 # Support :
-<p><a href="https://www.buymeacoffee.com/SenuGamerBoy"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a plant&emoji=🎍&slug=SenuGamerBoy&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"></a><a href="https://ko-fi.com/SenuGamerBoy"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="SenuGamerBoy" /></a></p>
-
+<p><a href="https://www.buymeacoffee.com/SenuGamerBoy"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a plant&emoji=🎍&slug=SenuGamerBoy&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"></a>
 ## License
 Code released under [The GNU General Public License](LICENSE).
