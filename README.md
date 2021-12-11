@@ -50,7 +50,7 @@ Cache is good for us in most time, but for a badge to count visitor, it is a dis
 
 We want every time every one visitor our README.md the count will increment 1, so I did a trick thing:
 
-Disable cache by adding a response header: ``'Cache-Control': 'no-cache,max-age=0'```
+Disable cache by adding a response header: ```'Cache-Control': 'no-cache,max-age=0'```
 
 Set a passed expire time to 10 minutes AGO of current time: ``` 'Expires': <10 minutes ago> ```
 
