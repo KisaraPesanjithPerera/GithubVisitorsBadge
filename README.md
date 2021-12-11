@@ -9,15 +9,15 @@ Examples:
 - default style
 
 ```markdown
-![visitor badge](github-visitors-badge.glitch.me/badge?page_id=SenuGamerBoy.github-visitors-badge)
+![visitor badge](https://github-visitors-badge.glitch.me/badge?page_id=SenuGamerBoy.github-visitors-badge)
 ```
 
-![visitor badge](github-visitors-badge.glitch.me/badge?page_id=SenuGamerBoy.github-visitors-badge)
+![visitor badge](https://github-visitors-badge.glitch.me/badge?page_id=SenuGamerBoy.github-visitors-badge)
 
 - customized left text (default is `visitors`)
 
 ```markdown
-![visitor badge](github-visitors-badge.glitch.me/badge?page_id=SenuGamerBoy.github-visitors-badge&left_text=MyPageVisitors)
+![visitor badge](https://github-visitors-badge.glitch.me/badge?page_id=SenuGamerBoy.github-visitors-badge&left_text=MyPageVisitors)
 ```
 ![visitor badge](https://github-visitors-badge.glitch.me/badge?page_id=SenuGamerBoy.github-visitors-badge&left_text=MyPageVisitors)
 
