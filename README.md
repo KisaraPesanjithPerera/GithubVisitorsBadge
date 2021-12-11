@@ -128,7 +128,7 @@ Please add your github Username to the AUTHORS file
 <img src="https://user-images.githubusercontent.com/86920820/145670327-27b47a1f-1bf8-4642-a0d2-8f44192ef1b8.png" width="240"></a>
 
 # Devs & Contributors
-If you'd like to contribute, check out the [contributing guide](CONTRIBUTING).
+* If you'd like to contribute, check out the [contributing guide](CONTRIBUTING).
 <a href="https://github.com/SenuGamerBoy/github-visitors-badge/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=SenuGamerBoy/github-visitors-badge" />
 </a>
