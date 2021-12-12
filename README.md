@@ -104,7 +104,7 @@ Examples:
 ```markdown
 ![visitor badge](https://github-visitors-badge.glitch.me/badge?page_id=SenuGamerBoy.github-visitors-badge&left_color=red&right_color=green&left_text=Hello%20Visitors)
 ```
-![visitor badge](https://github-visitors-badge.glitch.me/badge?page_id=SenuGamerBoy.github-visitors-badge&left_color=red&right_color=green&left_text=Hello%20Visitors) (left_color=red, right_color=green, left_text=Hello%20Visitors)
+![visitor badge](https://github-visitor-badge.glitch.me/badge?page_id=SenuGamerBoy.github-visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitors) (left_color=red, right_color=green, left_text=Hello%20Visitors)
 
 # CONTRIBUTING
 
