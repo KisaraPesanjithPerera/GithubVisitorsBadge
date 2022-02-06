@@ -1,6 +1,6 @@
 ![cooltext399899734189845](https://user-images.githubusercontent.com/86920820/145670160-be3ab034-6af2-412f-8e19-910007c75e06.png)
 
-# [github visitors badge](https://github-visitors-badge.glitch.me) ![visitor badge](https://github-visitors-badge.glitch.me/badge?page_id=SenuGamerBoy.github-visitors-badge&left_text=MyPageVisitors)
+# [Github Visitors Badge](https://github-visitors-badge.glitch.me) ![visitor badge](https://github-visitors-badge.glitch.me/badge?page_id=SenuGamerBoy.github-visitors-badge&left_text=MyPageVisitors)
 
 A badge generator service to count visitors of your markdown file.
 
@@ -36,7 +36,7 @@ Also can avoid concurrent updating issue if too many visitors to your page in th
 
 So, for now, we have all we needed, just coding:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SenuGamerBoy&repo=github-visitors-badge)](https://github.com/SenuGamerBoy/github-visitors-badge)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KisaraPesanjithPerera&repo=GithubVisitorsBadge)](https://github.com/SenuGamerBoy/github-visitors-badge)
 
 # Some tricks
 Why you have to pass a ```page_id``` as a query parameter?
@@ -64,40 +64,40 @@ Examples:
 - default style
 
 ```markdown
-![visitor badge](https://github-visitors-badge.glitch.me/badge?page_id=SenuGamerBoy.github-visitors-badge)
+![visitor badge](https://github-visitors-badge.glitch.me/badge?page_id=KisaraPesanjithPerera.GithubVisitorsBadge)
 ```
 
 
 - customized left text (default is `visitors`)
 
 ```markdown
-![visitor badge](https://github-visitors-badge.glitch.me/badge?page_id=SenuGamerBoy.github-visitors-badge&left_text=MyPageVisitors)
+![visitor badge](https://github-visitors-badge.glitch.me/badge?page_id=KisaraPesanjithPerera.GithubVisitorsBadge&left_text=MyPageVisitors)
 ```
 
 - customized left text with a space between words
 
 ```markdown
-![visitor badge](https://github-visitors-badge.glitch.me/badge?page_id=SenuGamerBoy.github-visitors-badge&left_text=My%20Page%20Visitors)
+![visitor badge](https://github-visitors-badge.glitch.me/badge?page_id=KisaraPesanjithPerera.GithubVisitorsBadge&left_text=My%20Page%20Visitors)
 ```
 
 
 - customzied color
 
 ```markdown
-![visitor badge](https://github-visitors-badge.glitch.me/badge?page_id=SenuGamerBoy.github-visitors-badge&left_color=red&right_color=green) 
+![visitor badge](https://github-visitors-badge.glitch.me/badge?page_id=KisaraPesanjithPerera.GithubVisitorsBadge&left_color=red&right_color=green) 
 ```
  
 
 - customized color and left text
 
 ```markdown
-![visitor badge](https://github-visitors-badge.glitch.me/badge?page_id=SenuGamerBoy.github-visitors-badge&left_color=red&right_color=green&left_text=HelloVisitors)
+![visitor badge](https://github-visitors-badge.glitch.me/badge?page_id=KisaraPesanjithPerera.GithubVisitorsBadge&left_color=red&right_color=green&left_text=HelloVisitors)
 ```
 
 - customized color and a space between words in left text
 
 ```markdown
-![visitor badge](https://github-visitors-badge.glitch.me/badge?page_id=SenuGamerBoy.github-visitors-badge&left_color=red&right_color=green&left_text=Hello%20Visitors)
+![visitor badge](https://github-visitors-badge.glitch.me/badge?page_id=KisaraPesanjithPerera.GithubVisitorsBadge&left_color=red&right_color=green&left_text=Hello%20Visitors)
 ```
 
 # CONTRIBUTING
@@ -117,17 +117,17 @@ Please ensure your changes work in Python 3.7+
 
 Please add your github Username to the AUTHORS file
 
-## powered by
+## Powered By
 
 <img src="https://user-images.githubusercontent.com/86920820/145670327-27b47a1f-1bf8-4642-a0d2-8f44192ef1b8.png" width="240"></a>
 
 # Devs & Contributors
 * If you'd like to contribute, check out the [contributing guide](CONTRIBUTING).
-<a href="https://github.com/SenuGamerBoy/github-visitors-badge/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=SenuGamerBoy/github-visitors-badge" />
+<a href="https://github.com/KisaraPesanjithPerera/GithubVisitorsBadge/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=KisaraPesanjithPerera/GithubVisitorsBadge" />
 </a>
 
-> Thanks to everyone who starred [github visitors badge](https://github.com/SenuGamerBoy/github-visitors-badge), That is the greatest pleasure we have !
+> Thanks to everyone who starred [github visitors badge](https://github.com/KisaraPesanjithPerera/GithubVisitorsBadge), That is the greatest pleasure we have !
 
 # Support :
 <p><a href="https://www.buymeacoffee.com/SenuGamerBoy"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a plant&emoji=🎍&slug=SenuGamerBoy&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"></a></p>
