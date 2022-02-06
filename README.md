@@ -1,6 +1,6 @@
 ![cooltext399899734189845](https://user-images.githubusercontent.com/86920820/145670160-be3ab034-6af2-412f-8e19-910007c75e06.png)
 
-# [Github Visitors Badge](https://github-visitors-badge.glitch.me) ![visitor badge](https://github-visitors-badge.glitch.me/badge?page_id=SenuGamerBoy.github-visitors-badge&left_text=MyPageVisitors)
+# [Github Visitors Badge](https://github-visitors-badge.glitch.me) ![visitor badge](https://github-visitors-badge.glitch.me/badge?page_id=KisaraPesanjithPerera.GithubVisitorsBadge&left_text=MyPageVisitors)
 
 A badge generator service to count visitors of your markdown file.
 
@@ -18,7 +18,6 @@ After a lot of searching, brainstorming, prototyping, I put my eye on the little
 - How much opened issues
 - How much PRs
 - ...
-
 
 and all the badges is just a svg image file with a dynamic content in it.
 
@@ -61,40 +60,40 @@ That's it, after this little tricks every time you visitor the README.md, the br
 
 Examples:
 
-- default style
+- Default Style
 
 ```markdown
 ![visitor badge](https://github-visitors-badge.glitch.me/badge?page_id=KisaraPesanjithPerera.GithubVisitorsBadge)
 ```
 
 
-- customized left text (default is `visitors`)
+- Customized Left Text (default is `visitors`)
 
 ```markdown
 ![visitor badge](https://github-visitors-badge.glitch.me/badge?page_id=KisaraPesanjithPerera.GithubVisitorsBadge&left_text=MyPageVisitors)
 ```
 
-- customized left text with a space between words
+- Customized Left Text With A Space Between Words
 
 ```markdown
 ![visitor badge](https://github-visitors-badge.glitch.me/badge?page_id=KisaraPesanjithPerera.GithubVisitorsBadge&left_text=My%20Page%20Visitors)
 ```
 
 
-- customzied color
+- Customzied Colour 
 
 ```markdown
 ![visitor badge](https://github-visitors-badge.glitch.me/badge?page_id=KisaraPesanjithPerera.GithubVisitorsBadge&left_color=red&right_color=green) 
 ```
  
 
-- customized color and left text
+- Customized Colour And Left Text
 
 ```markdown
 ![visitor badge](https://github-visitors-badge.glitch.me/badge?page_id=KisaraPesanjithPerera.GithubVisitorsBadge&left_color=red&right_color=green&left_text=HelloVisitors)
 ```
 
-- customized color and a space between words in left text
+- Customized Colour And A Space Between Words In Left Text
 
 ```markdown
 ![visitor badge](https://github-visitors-badge.glitch.me/badge?page_id=KisaraPesanjithPerera.GithubVisitorsBadge&left_color=red&right_color=green&left_text=Hello%20Visitors)
