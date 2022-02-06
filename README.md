@@ -129,7 +129,7 @@ Please add your github Username to the AUTHORS file
 > Thanks to everyone who starred [github visitors badge](https://github.com/KisaraPesanjithPerera/GithubVisitorsBadge), That is the greatest pleasure we have !
 
 # Support :
-<p><a href="https://www.buymeacoffee.com/SenuGamerBoy"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a plant&emoji=🎍&slug=SenuGamerBoy&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"></a></p>
+<p><a href="https://www.buymeacoffee.com/KisaraPesanjith "><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a plant&emoji=🎍&slug=SenuGamerBoy&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"></a></p>
 
 ## License
 Code released under [The GNU General Public License](LICENSE).
